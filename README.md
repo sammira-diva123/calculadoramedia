@@ -1,2 +1,0 @@
-# calculadoramedia
-amo
